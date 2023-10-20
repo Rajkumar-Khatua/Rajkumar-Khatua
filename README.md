@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hello, I'm Rajkumar Khatua 👋<br><br>🚀 Full Stack Developer | 💡 Aspiring Entrepreneur<br><br>💻 Passionate about coding and technology. Currently leveling up in web development and diving into MongoDB.<br><br>🌐 Stay tuned for my latest projects and tech adventures!<br><br> ![Profile Views](https://profile-views.vercel.app/github/Rajkumar-Khatua?style=plastic&logo=GitHub)
+Hello, I'm Rajkumar Khatua 👋<br><br>🚀 Full Stack Developer | 💡 Aspiring Entrepreneur<br><br>💻 Passionate about coding and technology. Currently leveling up in web development and diving into MongoDB.<br><br>🌐 Stay tuned for my latest projects and tech adventures!<br><br> ![Profile Views](https://komarev.com/ghpvc/?username=Rajkumar-Khatua)
+
 
 
 ## 🌐 Socials:
