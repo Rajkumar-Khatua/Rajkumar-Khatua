@@ -3,7 +3,7 @@ Full-Stack Developer | JavaScript | TypeScript | Recent Graduate 🎓 | Passiona
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/i_am_raj.k.k20/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rajkumar-khatua-57154a20b/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/RajkumarKh18976) ![Profile Views](https://profile-views.vercel.app/github/Rajkumar-Khatua?style=plastic&logo=GitHub)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/i_am_raj.k.k20/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rajkumar-khatua-57154a20b/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/RajkumarKh18976)  ![](https://komarev.com/ghpvc/?username=Rajkumar-Khatua&color=green)
 
 
 # 💻 Tech Stack:
